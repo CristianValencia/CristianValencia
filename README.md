@@ -1,5 +1,5 @@
 
-# About the guy
+# Something about Cristian
 
 Hello there! I am Cristian Valencia, a Software Engineer located in Mexico.
 
